@@ -13,12 +13,15 @@ body {
   box-shadow: 0 2px 4px rgba(67, 65, 65, 0.1);
   border-radius: 8px;
   padding: 20px;
-  max-width: 400px;
+  max-width: 600px;
   text-align: center;
 }
 
+.card-title {
+  font-weight: 700;
+}
 .card img {
-  max-width: 100%;
+  max-width: 1900%;
   height: auto;
   border: none;
   border-radius: 10px;
@@ -30,11 +33,17 @@ body {
   color: #2c2525;
 }
 
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
 .attribution a {
-  color: #e3e8ed;
+  color: #4a4c4e;
   text-decoration: none;
 }
 
 .attribution a:hover {
   text-decoration: underline;
+  color: purple;
 }
