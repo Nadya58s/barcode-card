@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  background-color: white;
+  margin: 2rem;
+  box-shadow: 0 1rem 21rem #b6b3b3;
+  padding: 20px 0 20px 0;
+}
+
+.card-img-top {
+  align-items: center;
+}
+
+.card-title {
+  text-align: center;
+}
+
+.card-text {
+  text-align: center;
+}
+
+.attribution {
+  text-align: center;
+  padding-top: 20px;
+}
